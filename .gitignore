@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.zip
+.env
+proxy/captures.json
+proxy/.secret
+.DS_Store
